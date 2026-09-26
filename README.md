@@ -72,7 +72,7 @@ Example: `![Dashboard Preview](https://github.com/username/repo/assets/image.png
 
 ### Predictive Churn Profile & At-Risk Customers
 
-`![Churn Prediction](https://github.com/your-username/customer-churn-analysis/assets/churn_prediction.png)`
+![Churn Prediction](https://github.com/samadhanshinde1007-dev/Customer-Churn-Analysis-Project/blob/main/Churn%20Prediction.png)
 
 ### Churn Reason Breakdown
 
