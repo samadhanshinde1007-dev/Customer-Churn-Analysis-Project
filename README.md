@@ -68,7 +68,7 @@ Example: `![Dashboard Preview](https://github.com/username/repo/assets/image.png
 
 ### Churn Analysis - Executive Summary
 
-`![Customer Churn Summary](https://github.com/your-username/customer-churn-analysis/assets/churn_summary.png)`
+![Customer Churn Summary](https://github.com/samadhanshinde1007-dev/Customer-Churn-Analysis-Project/blob/main/Customer%20Churn%20Summary.png)
 
 ### Predictive Churn Profile & At-Risk Customers
 
