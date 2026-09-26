@@ -76,4 +76,4 @@ Example: `![Dashboard Preview](https://github.com/username/repo/assets/image.png
 
 ### Churn Reason Breakdown
 
-`![Customer Churn Reason](https://github.com/your-username/customer-churn-analysis/assets/churn_reason.png)`
+![Customer Churn Reason](https://github.com/samadhanshinde1007-dev/Customer-Churn-Analysis-Project/blob/main/Customer%20Churn%20Reason.png)
