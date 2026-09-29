@@ -62,10 +62,6 @@ An end-to-end data analytics and predictive modeling solution designed to analyz
 
 ## 6. Screenshots / Demos
 
-Show what the dashboard looks like. - `![Alt_text](https://github.com/username/repo/assets/image.png)`[cite: 3]
-
-Example: `![Dashboard Preview](https://github.com/username/repo/assets/image.png)`[cite: 3]
-
 ### Churn Analysis - Executive Summary
 
 ![Customer Churn Summary](https://github.com/samadhanshinde1007-dev/Customer-Churn-Analysis-Project/blob/main/Customer%20Churn%20Summary.png)
